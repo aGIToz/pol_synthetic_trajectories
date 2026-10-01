@@ -61,7 +61,6 @@ The GMU trajectory coordinates use:
 
 ```text
 EPSG:32046 - NAD27 / Virginia North
-Units: US survey feet
 ```
 
 To convert positions to latitude/longitude, transform from `EPSG:32046` to
