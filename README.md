@@ -68,7 +68,7 @@ To convert positions to latitude/longitude, transform from `EPSG:32046` to
 
 ## Notes
 
-- This dataset is made availabe under the Open Database License (ODbL) 1.0
+- This dataset is made available under the Open Database License (ODbL) 1.0
 - The data is synthetic and produced by simulation, not by tracking real people.
 - The ten CSV files preserve the original row order.
 
