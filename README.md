@@ -71,5 +71,11 @@ To convert positions to latitude/longitude, transform from `EPSG:32046` to
 - This dataset is made availabe under the Open Database License (ODbL) 1.0
 - The data is synthetic and produced by simulation, not by tracking real people.
 - The ten CSV files preserve the original row order.
+
+## OpenStreetMap Attribution
+
+The synthetic trajectories in this dataset were generated using the [POL (Patterns-of-Life)](https://github.com/azufle/pol) simulation framework on a geographic environment derived from [OpenStreetMap](https://www.openstreetmap.org/) data.
+
+**© OpenStreetMap contributors.** OpenStreetMap data is available under the [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 - Each split file has `13,114,892` data rows plus one header row.
 - Total data rows across all ten files: `131,148,920`.
