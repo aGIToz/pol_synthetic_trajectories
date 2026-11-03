@@ -80,3 +80,7 @@ To convert positions to latitude/longitude, transform from `EPSG:32046` to
 The synthetic trajectories in this dataset were generated using the [POL (Patterns-of-Life)](https://github.com/azufle/pol) simulation framework on a geographic environment derived from [OpenStreetMap](https://www.openstreetmap.org/) data.
 
 **© OpenStreetMap contributors.** OpenStreetMap data is available under the Open Database License (ODbL) 1.0.
+
+
+## Acknowledgements
+This work was partially funded by the Deutsche Forschungsgemeinschaft (DFG), Germany (“RUSHMORE”, 547610252).
